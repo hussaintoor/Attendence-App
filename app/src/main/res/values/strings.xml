@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AttendenceApp</string>
+    <string name="title_activity_attendence_view">AttendenceView</string>
+    <string name="previous">Previous</string>
+    <string-array name="leave_type">
+        <item>Select Type</item>
+        <item>Medical</item>
+        <item>Emergency</item>
+        <item>Half Day</item>
+        <item>Other</item>
+    </string-array>
+
 </resources>
